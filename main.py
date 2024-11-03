@@ -27,7 +27,7 @@ app = Client(
 )
 
 if __name__ == "__main__":
-    print("𝙰𝚕𝚙𝚑𝚊 𝚂𝚎𝚜𝚜𝚒𝚘𝚗 𝙶𝚎𝚗 𝚜𝚝𝚊𝚛𝚝𝚒𝚗𝚐...")
+    print(" 𝚂𝚎𝚜𝚜𝚒𝚘𝚗 𝙶𝚎𝚗 𝚜𝚝𝚊𝚛𝚝𝚒𝚗𝚐...")
     try:
         app.start()
     except ApiIdInvalid:
@@ -41,7 +41,7 @@ if __name__ == "__main__":
         raise
 
     uname = app.get_me().username
-    print(f"@{uname} NOW ALPHA SESSION GEN IS READY TO GEN SESSION")
+    print(f"@{uname} NOW  SESSION GEN IS READY TO GEN SESSION")
     
     idle()
     
