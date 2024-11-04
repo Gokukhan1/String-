@@ -1,4 +1,4 @@
-from RAUSHAN.db import db
+from GOKU.db import db
 
 usersdb = db.users
 
