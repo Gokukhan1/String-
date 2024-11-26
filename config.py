@@ -10,4 +10,4 @@ BOT_TOKEN = "6836897719:AAGDajQiBIvoNyAW5SFL8r-uZRBS2V4-AdE"
 OWNER_ID = int(getenv("OWNER_ID","7078181502"))
 
 MONGO_DB_URI = getenv("mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority")
-MUST_JOIN = getenv("MUST_JOIN","lolpagalokigc")
+MUST_JOIN = getenv("MUST_JOIN","PiratesMainchat")
