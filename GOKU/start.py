@@ -27,8 +27,8 @@ async def start(bot: Client, msg: Message):
                     InlineKeyboardButton(text=" ɢᴇɴᴇʀᴀᴛᴇ sᴛʀɪɴɢ ", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton(" sᴜᴘᴘᴏʀᴛ", url="https://t.me/lolpagalokigc"),
-                    InlineKeyboardButton(" ᴜᴘᴅᴀᴛᴇs ", url="https://t.me/mlohvdryj")
+                    InlineKeyboardButton(" sᴜᴘᴘᴏʀᴛ", url="https://t.me/PiratesMainchat"),
+                    InlineKeyboardButton(" ᴜᴘᴅᴀᴛᴇs ", url="https://t.me/PiratesBotRepo")
                 ],
                 [
                     InlineKeyboardButton(" sᴏᴜʀᴄᴇ ", url="https://github.com/Gokukhan1/String-"),
